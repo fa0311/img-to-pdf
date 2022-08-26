@@ -6,7 +6,7 @@ from lib.img_to_pdf import img_to_pdf
 import webbrowser
 
 APP_NAME = "img-to-pdf"
-VERSION = "1.2.0"
+VERSION = "1.0.0"
 
 
 class input_window:
